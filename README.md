@@ -1,1 +1,5 @@
 # bubble-selection-sort
+-Bubble sort
+  Bubble sort adalah algoritma pencarian urutan yang sederhana dan sering digunakan dalam pengurutan data. Ini bekerja dengan membandingkan nilai satu per satu dan mengurutkannya berdasarkan urutan yang ditentukan. Algoritma ini sering digunakan di berbagai aplikasi seperti perangkat lunak pengarsipan, proses pengolahan data, dan penerjemahan bahasa alami.Secara sederhana, bisa didefenisikan algoritma Bubble Sort adalah pengurutan dengan cara pertukaran data dengan data disebelahnya secara terus menerus sampai dalam satu iterasi tertentu tidak ada lagi perubahan.
+-selection sort
+  Selection sort merupakan sebuah teknik pengurutan dengan cara mencari nilai tertinggi / terendah di dalam array kemudian menempatkan nilai tersebut di tempat semestinya. Algorithma ini dapat mengurutkan data dari besar ke kecil (Ascending) dan kecil ke besar (Descending). Algoritma ini tidak cocok untuk set data dengan jumlah besar karena kompleksitas dari algorithma ini adalah Ο(x2) di mana n adalah jumlah item.
